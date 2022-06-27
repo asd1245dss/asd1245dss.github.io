@@ -103,6 +103,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 
+  repo: https://github.91chi.fun/https://github.com/asd1245dss/asd1245dss.github.io.git
   branch: master
-  token: 
+  token: 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
